@@ -5,6 +5,7 @@ Haphazard repo of my tumbleweed slack slash command
 ## Stole Some Shit ##
 
 Source: http://www.deviantart.com/art/Tumbleweed-New-Asset-445527292
+
 Source's source: http://kitkatyj.deviantart.com/art/Tumbleweed-Commission-445479266
 
 ## The GIFs ##
@@ -21,4 +22,6 @@ Honestly, you don't even need a "server." Just a link to a file with the followi
 
 I'm sure if you can set up a slack slash command, then you have your own preference for webservers. I wrote tumbleweeder.py in python out of habit. I have my personal server set up with nginx/uwsgi, also out of habit. So what's included isn't ACTUALLY how I run it. 
 
-Or if you're laxy just point your slack slash command to: http://stacksarelast.info/tumbleweed
+Or if you're lazy just point your slack slash command to: http://stacksarelast.info/tumbleweed
+
+In case I fall into a coma and the first thing I want to do when I wake up is recreate tumbleweeder, this will be nice for reference, I guess: https://api.slack.com/slash-commands#responding_to_a_command
